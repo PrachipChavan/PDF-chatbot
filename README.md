@@ -1,4 +1,5 @@
 # Multi-Provider PDF Chatbot
+<img width="1906" height="917" alt="image" src="https://github.com/user-attachments/assets/7fbd5721-e671-40a6-85ed-bf2ea997a1a5" />
 
 A premium, highly interactive Streamlit web application that lets you upload multiple PDF documents and chat with them using either **Google Gemini** or **Groq Cloud** models. 
 
